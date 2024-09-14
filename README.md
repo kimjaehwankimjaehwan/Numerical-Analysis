@@ -1,2 +1,1 @@
-# Re-106Re-10-6Re-106
-Re=106Re = 10^6Re=106
+Numerical Analysis
